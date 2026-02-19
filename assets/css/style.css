@@ -86,7 +86,7 @@ header nav a {
 }
 
 .intro-section {
-    background-color: #adc660;
+    background-color: #869F3B;
     padding-top: 2rem;
     padding-bottom: 2rem;
     width: 100%;
@@ -115,6 +115,44 @@ main {
     flex: 1;
 }
 
+/*---------------------------footer---------------------------------*/
 footer {
-    margin-top: auto;
+    background-color: #5B191F;
+    color: #F9F4ED;
+    padding: 2rem;
+    margin-top: 3rem;
+}
+
+.footer-content {
+    max-width: 50rem;   /* ← gleich wie hero und intro */
+    margin: 0 auto;
+}
+
+.footer-contact {
+    display: flex;
+    flex-direction: column; /* ← untereinander */
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.footer-contact p {
+    margin: 0;
+}
+
+.footer-contact a {
+    color: #F9F4ED;
+    text-decoration: none;
+}
+
+.footer-credits {
+    margin: 0;
+    font-size: 0.9rem;
+    opacity: 0.8;
+}
+
+.footer-icon {
+    width: 1.2rem;        /* ← kleiner machen */
+    height: 1.2rem;
+    vertical-align: middle;
+    margin-right: 0.5rem;
 }
