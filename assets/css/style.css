@@ -8,10 +8,16 @@
     src: url("../fonts/OutfitVariable.ttf") format("truetype");
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: "UeberschriftFont", serif;
     color: #5B191F;
 }
+
 /*---------------------------header---------------------------------*/
 header {
     display: flex;
@@ -27,7 +33,7 @@ header {
     color: #5B191F;
 }
 
-.header-name:hover{
+.header-name:hover {
     text-decoration: underline;
 }
 
@@ -40,20 +46,27 @@ header nav {
 header nav a {
     text-decoration: none;
     color: #5B191F;
-    padding: 0.4rem 0.8rem;         /* ← Platz für den Hintergrund */
-    border-radius: 0.3rem;          /* ← leicht abgerundete Ecken */
-    transition: background-color 0.2s, color 0.2s, font-size 0.2s; /* ← smooth */
+    padding: 0.4rem 0.8rem;
+    /* ← Platz für den Hintergrund */
+    border-radius: 0.3rem;
+    /* ← leicht abgerundete Ecken */
+    transition: background-color 0.2s, color 0.2s, font-size 0.2s;
+    /* ← smooth */
 }
 
 header nav a:hover {
-    background-color: #5B191F;      /* ← roter Hintergrund */
-    color: #F9F4ED;                 /* ← weiße Schrift */
-    font-size: 1.1rem;              /* ← etwas größer */
+    background-color: #5B191F;
+    /* ← roter Hintergrund */
+    color: #F9F4ED;
+    /* ← weiße Schrift */
+    font-size: 1.1rem;
+    /* ← etwas größer */
 }
 
 .lang-switcher {
     display: flex;
-    flex-direction: column; /* ← übereinander */
+    flex-direction: column;
+    /* ← übereinander */
     gap: 0.2rem;
 }
 
@@ -73,6 +86,7 @@ header nav a:hover {
     color: #F9F4ED;
     font-size: 1.1rem;
 }
+
 /*---------------------------index---------------------------------*/
 .hero {
     display: flex;
@@ -92,7 +106,7 @@ header nav a:hover {
 
 .profile-pic-wrapper {
     padding: 0.6rem;
-    border: 0.25rem solid #869F3B;  
+    border: 0.25rem solid #869F3B;
     border-bottom: none;
     border-radius: 50% 50% 0 0 / 35% 35% 0 0;
     margin-bottom: 0;
@@ -176,6 +190,123 @@ body {
 
 main {
     flex: 1;
+}
+
+/*---------------------------resume---------------------------------*/
+.resume-content {
+    max-width: 50rem;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+.resume-content h1 {
+    font-size: 4rem;
+}
+
+.timeline-section {
+    margin-bottom: 3rem;
+}
+
+.section-header {
+    margin-left: 8rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.section-header h2 {
+    font-size: 2.5rem;
+}
+
+.timeline {
+    position: relative;
+    padding: 1rem 0;
+}
+
+/* Der grüne Balken – zentriert auf die Dot-Spalte */
+/* Grid: 8rem | 2.5rem | rest → Balkenmitte bei 8rem + 1.25rem = 9.25rem */
+.timeline::before {
+    content: "";
+    position: absolute;
+    left: calc(8rem + 1.25rem - 1.5rem);
+    /* Mitte Dot-Spalte - halbe Balkenbreite */
+    top: 0rem;
+    bottom: 3.2rem;
+    width: 3rem;
+    height: auto;
+    background: #869F3B;
+    border-radius: 999px;
+    /* komplett abgerundet */
+}
+
+.timeline::after {
+    content: "";
+    position: absolute;
+    left: calc(8rem + 1.25rem - 0.075rem);
+    /* Mitte Dot-Spalte - halbe Linienbreite */
+    top: calc(1rem + 1.2rem);
+    bottom: calc(2.5rem + 1rem + 1.2rem);
+    width: 0.2rem;
+    background: #F9F4ED;
+    z-index: 1;
+}
+
+/* Eine Zeile der Timeline */
+.timeline-item {
+    display: grid;
+    grid-template-columns: 8rem 2.5rem 1fr;
+    align-items: start;
+    margin-bottom: 2.5rem;
+    position: relative;
+}
+
+/* Datum links */
+.timeline-date {
+    text-align: right;
+    padding-right: 0.8rem;
+    font-size: 0.95rem;
+    color: #5B191F;
+    font-weight: bold;
+}
+
+/* Kreis */
+.timeline-dot {
+    width: 1rem;
+    height: 1rem;
+    background: #869F3B;
+    border: 0.2rem solid #F9F4ED;
+    border-radius: 50%;
+    justify-self: center;
+    z-index: 3;
+    position: relative;
+}
+
+/* Text rechts */
+.timeline-content {
+    padding-left: 1.5rem;
+}
+
+.timeline-content h3 {
+    margin: 0 0 0.3rem 0;
+    font-size: 1.5rem;
+    line-height: 1;
+}
+
+.timeline-content p {
+    margin: 0;
+    font-size: 0.95rem;
+    color: #444;
+}
+
+.timeline-content ul {
+    margin: 0;
+    padding-left: 1.2rem;
+    font-size: 0.95rem;
+    color: #444;
+}
+
+.timeline-content ul li {
+    margin-bottom: 0.2rem;
 }
 
 /*---------------------------footer---------------------------------*/

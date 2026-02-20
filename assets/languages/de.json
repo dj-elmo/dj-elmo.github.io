@@ -13,11 +13,52 @@
     "more_resume_link": "Lebenslauf – Ein Überblick über meinen bisherigen Weg und meine Erfahrungen.",
     "more_projects_link": "Projekte – Eine Auswahl an Studienprojekten und was ich dabei gelernt habe.",
     "more_skills_link": "Skills – Meine technischen und kreativen Kompetenzen auf einen Blick.",
-
-
+    
     "nav_resume": "Lebenslauf",
     "nav_skills": "Skills",
     "nav_projects": "Projekte",
+    
+    "footer_end": "Design & Entwicklung von Elisabeth Gehdt",
+    
+    "resume_education": "Bildungsweg",
+    "resume_ed_1_date": "seit 2023",
+    "resume_ed_1_title": "Hochschule Rhein Main",
+    "resume_ed_1_description": "Bachelor-Studium Medieninformatik, aktuell im 5. Semester",
+    "resume_ed_2_title": "Gymnasium Diltheyschule Wiesbaden",
+    "resume_ed_2_description": "Abschluss Abitur mit einem Schnitt von 1,8",
+    "resume_ed_3_title": "Grundschule Schelmengraben",
+    
+    "resume_work": "Berufserfahrung",
+    "resume_w_1_title": "Tutorin für das Modul \"Grundlagen Mediendesign\"",
+    "resume_w_1_date": "2024/2025",
+    "resume_w_1_bullet1": "Erklärung der Aufgabenstellung",
+    "resume_w_1_bullet2": "Unterstützung bei der Aufgabenbearbeitung",
+    "resume_w_1_bullet3": "Vermittlung komplexer Inhalte in verständlicher Form",
+    "resume_w_1_bullet4": "Stärkung der eigenen Präsentations- und Kommunikationsfähigkeit",
+    
+    "resume_w_2_title": "Servicekraft bei MoschMosch (Standort Wiesbaden)",
+    "resume_w_2_date": "Juli 2023 - Juli 2025",
+    "resume_w_2_bullet1": "Kundenbedienung",
+    "resume_w_2_bullet2": "Pflege des Gastraumes und Thekenbereichs",
+    "resume_w_2_bullet3": "Teamarbeit und Abstimmung mit Kolleg:innen in stressigen Situationen",
+    "resume_w_2_bullet4": "Organisation und Priorisierung von Aufgaben in Stoßzeiten",
+    
+    "resume_w_3_title": "Aushilfe bei Galeria",
+    "resume_w_3_date": "Winter 2022",
+    "resume_w_3_bullet1": "Einräumung der Ware und Regalpflege",
+    "resume_w_3_bullet2": "Kundenberatung im Verkaufsraum",
+    "resume_w_3_bullet3": "Souveräner Umgang mit Stresssituationen, z.B. bei hohem Kundenaufkommen",
+    "resume_w_3_bullet4": "Entwicklung von Verantwortungsbewusstsein durch eigenstandiges Arbeiten",
 
-    "footer_end": "Design & Entwicklung von Elisabeth Gehdt"
+    "resume_w_4_title": "Sozialpraktikum in der Grundschule Schelmengraben",
+    "resume_w_4_date": "April 2021",
+    "resume_w_4_bullet1": "Betreuung einer Klasse",
+    "resume_w_4_bullet2": "Unterstützung der Lehrkräfte",
+    "resume_w_4_bullet3": "Förderung von Geduld, Einfühlungsvermögen und Kommunikationsfähigkeit im Umgang mit Kindern",
+
+    "resume_w_5_title": "Betriebspraktikum bei QBF Deutschland",
+    "resume_w_5_date": "Oktober 2021",
+    "resume_w_5_bullet1": "Übernahme und Durchführung eines Projektes in Python",
+    "resume_w_5_bullet2": "Eigenständiges Einarbeiten in neue Technologien",
+    "resume_w_5_bullet3": "Vorstellung des Projektes vor Fachpublikum"
 }

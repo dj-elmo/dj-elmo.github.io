@@ -17,5 +17,14 @@
     "nav_resume": "Resume",
     "nav_skills": "Skills",
     "nav_projects": "Projects",
-    "footer_end": "Design & Development by Elisabeth Gehdt"
+
+    "footer_end": "Design & Development by Elisabeth Gehdt",
+
+    "resume_education": "Education",
+    "resume_ed_1_date": "since 2023",
+    "resume_ed_1_title": "Hochschule Rhein Main",
+    "resume_ed_1_description": "Bachelor's degree in Media Informatics, currently in my 5th semester",
+    "resume_ed_2_title": "Diltheyschule Wiesbaden",
+    "resume_ed_2_description": "Graduated with Abitur with a GPA fo 1.8",
+    "resume_ed_3_title": "Schelmengraben Primary School"
 }
