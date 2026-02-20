@@ -26,5 +26,39 @@
     "resume_ed_1_description": "Bachelor's degree in Media Informatics, currently in my 5th semester",
     "resume_ed_2_title": "Diltheyschule Wiesbaden",
     "resume_ed_2_description": "Graduated with Abitur with a GPA fo 1.8",
-    "resume_ed_3_title": "Schelmengraben Primary School"
+    "resume_ed_3_title": "Schelmengraben Primary School",
+
+    "resume_work": "Work Experience",
+    "resume_w_1_title": "Tutor for the module \"Fundamentals of Media Design\"",
+    "resume_w_1_date": "2024/2025",
+    "resume_w_1_bullet1": "Explaining assignment briefs to students",
+    "resume_w_1_bullet2": "Supporting students during task completion",
+    "resume_w_1_bullet3": "Communicating complex content in an understandable way",
+    "resume_w_1_bullet4": "Strengthening presentation and communication skills",
+    
+    "resume_w_2_title": "Service Staff at MoschMosch (Location: Wiesbaden)",
+    "resume_w_2_date": "July 2023 - July 2025",
+    "resume_w_2_bullet1": "Customer service",
+    "resume_w_2_bullet2": "Maintaining the dining area and counter",
+    "resume_w_2_bullet3": "Teamwork and coordination with colleagues in high-pressure situations",
+    "resume_w_2_bullet4": "Organising and prioritising tasks during peak hours",
+    
+    "resume_w_3_title": "Temporary Staff at Galeria",
+    "resume_w_3_date": "Winter 2022",
+    "resume_w_3_bullet1": "Stocking shelves and maintaining product displays",
+    "resume_w_3_bullet2": "Customer consultation on the sales floor",
+    "resume_w_3_bullet3": "Confident handling of stressful situations, e.g. during high customer volumes",
+    "resume_w_3_bullet4": "Developing a sense of responsibility through independent work",
+
+    "resume_w_4_title": "Social Internship at Schelmengraben Primary School",
+    "resume_w_4_date": "April 2021",
+    "resume_w_4_bullet1": "Supervising a class",
+    "resume_w_4_bullet2": "Supporting teachers",
+    "resume_w_4_bullet3": "Developing patience, empathy and communication skills when working with children",
+
+    "resume_w_5_title": "Work Internship at QBF Deutschland",
+    "resume_w_5_date": "October 2021",
+    "resume_w_5_bullet1": "Taking on and completing a project in Python",
+    "resume_w_5_bullet2": "Independently familiarising myself with new technologies",
+    "resume_w_5_bullet3": "Presenting the project to a specialist audience"
 }
