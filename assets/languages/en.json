@@ -60,5 +60,26 @@
     "resume_w_5_date": "October 2021",
     "resume_w_5_bullet1": "Taking on and completing a project in Python",
     "resume_w_5_bullet2": "Independently familiarising myself with new technologies",
-    "resume_w_5_bullet3": "Presenting the project to a specialist audience"
+    "resume_w_5_bullet3": "Presenting the project to a specialist audience",
+
+    "milefiz_modul": "Software Engineering Project",
+    "milefiz_descr_1": "The objective of this project was to reimagine and technically implement the classic board game Malefiz as an online-capable first-person multiplayer game. The focus was on a network-based multiplayer architecture that enables multiple players to play together in real-time in an interactive 3D environment.",
+    "milefiz_descr_2": "Development took place across five sprints following Scrum methodology. As stakeholder, Prof. Dr. Weitz defined key requirements, including five game pieces per player, import and export functions, an integrated map editor, strategic repositioning of barriers, and mini-games between players.",
+    "milefiz_tasks_1": "Scrum Master for Sprint 3",
+    "milefiz_descr_3": "The project was implemented by a team of ten members.",
+    "milefiz_tasks_title": "My tasks:",
+    "milefiz_tasks_2": "Development of the balloon mini-game",
+    "milefiz_tasks_3": "Creation of game assets",
+    "milefiz_tasks_4": "Design and layout of the standard game board",
+    "milefiz_tasks_7": "Implementation of jump mechanics",
+    "milefiz_tasks_5": "Implementation of the website landing page",
+    "milefiz_tasks_6": "Backend implementation of the energy system",
+    "milefiz_tasks_8": "Selection of the game character (meeple)",
+    "milefiz_learning_title": "What I learned:",
+    "milefiz_learning_1": "Agile work following Scrum methodologies",
+    "milefiz_learning_2": "Practical application of Scrum processes",
+    "milefiz_learning_3": "Effective collaboration in larger teams",
+    "milefiz_learning_4": "3D graphics programming with Three.js",
+    "milefiz_learning_5": "Sprint planning and execution as Scrum Master",
+    "milefiz_learning_6": "Team leadership and project management"
 }
