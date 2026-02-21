@@ -83,5 +83,27 @@
     "milefiz_galery_2": "Map-Editor",
     "milefiz_galery_3": "Landing-Homepage",
     "milefiz_galery_4": "Lobbysuche",
-    "milefiz_galery_5": "Lobbyverwaltung"
+    "milefiz_galery_5": "Lobbyverwaltung",
+
+    "lernwolke_modul": "Mensch-Computer-Interaktion",
+    "lernwolke_descr_1": "Die Aufgabe dieses Projekts bestand darin, ausgehend von einer leitenden „How-might-we“-Frage ein konkretes Problem zu identifizieren und dafür ein Lösungskonzept zu entwickeln. Die Umsetzung sollte als Non-WIMP-Anwendung erfolgen, also bewusst über klassische grafische Benutzeroberflächen mit Fenstern, Icons, Menüs und Mausinteraktion hinausgehen.",
+    "lernwolke_descr_2": "Der Schwerpunkt der Bewertung lag auf der konzeptionellen Ausarbeitung, sodass ein funktionsfähiger Prototyp als Umsetzungsform ausreichend war. Zu Beginn wurden mehrere unterschiedliche Lösungsansätze entwickelt, analysiert und miteinander verglichen. Auf dieser Grundlage wurde eine finale Lösung ausgewählt und anschließend als Prototyp ausgearbeitet und umgesetzt.",
+    "lernwolke_video": "Demo-Video",
+    "lernwolke_pdf": "Dokumentation",
+    "lernwolke_tasks_title": "Meine Aufgaben:",
+    "lernwolke_tasks_1": "Erstellen von Skizzen und Animationen",
+    "lernwolke_tasks_2": "Erstellung der finalen Visuals",
+    "lernwolke_tasks_3": "Implementierung in Unity",
+    "lernwolke_tasks_4": "Testen auf der Apple Vision Pro 2",
+    "lernwolke_tasks_5": "Dokumentation des Projektes in Form eines Booklets",
+    "lernwolke_tasks_6": "Erstellung des Demovideos",
+    "lernwolke_learning_title": "Was ich gelernt habe:",
+    "lernwolke_learning_1": "Ausarbeitung eines Konzepts anhand theoretischer Grundlagen",
+    "lernwolke_learning_2": "Arbeiten in Unity",
+    "lernwolke_learning_3": "Erstellung von Spritesheets",
+    "lernwolke_learning_4": "Implementierung einer AR-Anwendung in Unity",
+    "lernwolke_learning_5": "Umgang mit der Apple Vision Pro 2",
+    "lernwolke_resources_title": "Projektmaterial",
+    "lernwolke_resources_subtitle": "Weitere Materialien wie Spritesheets, das Unity-Projekt und Assets findest du hier:",
+    "lernwolke_resources_link": "Hessenbox – Alle Projektdateien und Ressourcen"
 }

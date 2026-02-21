@@ -88,5 +88,27 @@
     "milefiz_galery_2": "Map Editor",
     "milefiz_galery_3": "Landing Homepage",
     "milefiz_galery_4": "Lobby Search",
-    "milefiz_galery_5": "Lobby Management"
+    "milefiz_galery_5": "Lobby Management",
+
+    "lernwolke_modul": "Human-Computer Interaction",
+    "lernwolke_descr_1": "The objective of this project was to identify a concrete problem based on a guiding 'How-might-we' question and develop a solution concept. The implementation was to be realized as a non-WIMP application, deliberately going beyond classical graphical user interfaces with windows, icons, menus, and mouse interaction.",
+    "lernwolke_descr_2": "The evaluation focused on conceptual development, so a functional prototype was sufficient as an implementation form. Initially, several different solution approaches were developed, analyzed, and compared. Based on this, a final solution was selected and subsequently developed and implemented as a prototype.",
+    "lernwolke_video": "Demo Video",
+    "lernwolke_pdf": "Documentation",
+    "lernwolke_tasks_title": "My tasks:",
+    "lernwolke_tasks_1": "Creation of sketches and animations",
+    "lernwolke_tasks_2": "Creation of final visuals",
+    "lernwolke_tasks_3": "Implementation in Unity",
+    "lernwolke_tasks_4": "Testing on Apple Vision Pro 2",
+    "lernwolke_tasks_5": "Documentation of the project in the form of a booklet",
+    "lernwolke_tasks_6": "Creation of the demo video",
+    "lernwolke_learning_title": "What I learned:",
+    "lernwolke_learning_1": "Development of a concept based on theoretical foundations",
+    "lernwolke_learning_2": "Working in Unity",
+    "lernwolke_learning_3": "Creation of spritesheets",
+    "lernwolke_learning_4": "Implementation of an AR application in Unity",
+    "lernwolke_learning_5": "Working with Apple Vision Pro 2",
+    "lernwolke_resources_title": "Project Material",
+    "lernwolke_resources_subtitle": "Find additional materials like spritesheets, the Unity project, and assets here:",
+    "lernwolke_resources_link": "Hessenbox – All project files and resources"
 }
