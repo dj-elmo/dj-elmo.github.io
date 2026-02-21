@@ -34,3 +34,21 @@ document.addEventListener("DOMContentLoaded", async function () {  // ← async
 
     loadLanguage(lang);
 });
+
+document.addEventListener('DOMContentLoaded', function() {
+    const carousel = document.querySelector('.carousel');
+    const carouselPrev = document.querySelector('.carousel-prev');
+    const carouselNext = document.querySelector('.carousel-next');
+
+    if (carouselPrev && carousel) {
+        carouselPrev.addEventListener('click', () => {
+            carousel.scrollBy({ left: -carousel.clientWidth, behavior: 'smooth' });
+        });
+    }
+
+    if (carouselNext && carousel) {
+        carouselNext.addEventListener('click', () => {
+            carousel.scrollBy({ left: carousel.clientWidth, behavior: 'smooth' });
+        });
+    }
+});
