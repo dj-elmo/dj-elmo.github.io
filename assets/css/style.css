@@ -724,3 +724,47 @@ footer {
 .carousel-normal .carousel-item img {
     object-fit: cover;
 }
+
+.figma-link {
+    grid-column: span 2;
+    position: relative;
+    display: block;
+    border-radius: 0.8rem;
+    overflow: hidden;
+    text-decoration: none;
+    aspect-ratio: 16 / 9;
+}
+
+.figma-link img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: blur(0px);
+    transition: transform 0.3s, filter 0.3s;
+}
+
+.figma-link:hover img {
+    transform: scale(0.95);
+    border: 3px solid #5B191F;
+}
+
+.figma-text {
+    position: absolute;
+    bottom: 1.5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(91, 25, 31, 0.8);
+    color: #F9F4ED;
+    padding: 0.8rem 1.5rem;
+    border-radius: 0.4rem;
+    font-size: 1.1rem;
+    font-weight: bold;
+    transition: background 0.3s, font-size 0.3s, padding 0.3s;
+    z-index: 2;
+}
+
+.figma-link:hover .figma-text {
+    background: rgba(91, 25, 31, 0.95);
+    font-size: 1.3rem;
+    padding: 1rem 2rem;
+}

@@ -181,5 +181,23 @@
     "mp3_learning_1": "Erste Kenntnisse in JavaFX",
     "mp3_learning_2": "Die erste praktische Anwendung der MVC-Architektur",
     "mp3_learning_3": "Integration von Musik und Soundeffekten in einem interaktiven System",
-    "mp3_learning_4": "Erste Erfahrung mit der gemeinsamen Arbeit in einem Git-Repository"
+    "mp3_learning_4": "Erste Erfahrung mit der gemeinsamen Arbeit in einem Git-Repository",
+
+    "yd_descr_1": "Aufgabe dieses Projekts war es, für ein frei erfundenes, jedoch realistisch konzipiertes Startup eine vollständige Website zu gestalten. Dafür sollte zunächst ein stimmiges Geschäftskonzept inklusive Name, Logo und visuellem Erscheinungsbild entwickelt werden.",
+    "yd_descr_2": "Im weiteren Verlauf sollten Wireframes zur Strukturierung der Website erstellt, ein konsistenter Styleguide definiert und darauf aufbauend ein interaktiver Klickdummy umgesetzt werden. Wireframes und Prototyp waren in Figma zu realisieren. Dabei war das Prinzip des Atomic Designs anzuwenden, sodass wiederverwendbare, modulare UI-Komponenten entwickelt werden, die konsistent mehrfach eingesetzt und zentral angepasst werden können.",
+    "yd_descr_3": "Dieses Projekt war eine Gruppenarbeit mit Paula Petrovic und Jacob Scharf und sollte sowohl konzeptionelle als auch gestalterische Kompetenzen im Bereich UI/UX-Design fördern.",
+    "yd_dummy_title": "Figma Prototyp",
+    "yd_tasks_title": "Meine Aufgaben:",
+    "yd_tasks_1": "Ein eigenständiges Startup-Konzept inklusive Name, Geschäftsidee und Markenidentität wurde entwickelt",
+    "yd_tasks_2": "Ein visuelles Erscheinungsbild mit Logo, Farbwelt und Typografie wurde gestaltet",
+    "yd_tasks_3": "Strukturierte Wireframes in Figma wurden erstellt, um Seitenaufbau und Nutzerführung zu definieren",
+    "yd_tasks_4": "Ein konsistenter Styleguide zur Festlegung von Designrichtlinien und UI-Regeln wurde ausgearbeitet",
+    "yd_tasks_5": "Ein interaktiver Klickdummy in Figma wurde umgesetzt, um die Benutzerinteraktion realitätsnah zu simulieren",
+    "yd_tasks_6": "Dokumentation des Projektes in Form eines passend gestalteten Booklet",
+    "yd_learning_title": "Was ich gelernt habe:",
+    "yd_learning_1": "Ein ganzheitliches Verständnis für die Entwicklung einer Markenidentität wurde aufgebaut",
+    "yd_learning_2": "Kenntnisse in der Erstellung von Wireframes und nutzerorientierter Seitenstruktur wurden vertieft",
+    "yd_learning_3": "Sicherheit im Arbeiten mit Styleguides und Designsystemen wurde gewonnen",
+    "yd_learning_4": "Erfahrung in der Erstellung interaktiver Prototypen in Figma wurde gesammelt",
+    "yd_learning_5": "Die Fähigkeit zur Teamarbeit im Designprozess wurde weiterentwickelt"
 }
