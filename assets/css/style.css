@@ -351,6 +351,11 @@ footer {
     margin-right: 0.5rem;
 }
 
+.footer-info-text {
+    color: inherit;
+    font-style: italic;
+}
+
 /*---------------------------projects---------------------------------*/
 
 .projects-content {
